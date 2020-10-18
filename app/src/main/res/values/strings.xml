@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TinNews</string>
+    <string name="title_home">Home</string>
+    <string name="title_save">Save</string>
+    <string name="title_search">Search</string>
+    <string name="title_details">Details</string>
+    <string name='saved_item_author'>Author:</string>
+    <string name="saved_item_description">Description:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
